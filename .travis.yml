@@ -5,6 +5,7 @@ node_js:
 branches:
   only:
   - main
+  - test-travis-ci
 cache:
   directories:
   - node_modules
