@@ -67,3 +67,4 @@ describe('Router Integration Test Suites', () => {
         ).toHaveTextContent("Ajout d'un nouveau capteur")
     })
 })
+
